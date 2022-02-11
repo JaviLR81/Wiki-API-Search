@@ -2,6 +2,7 @@
 
 _Este es un proyecto creado con el objetivo de repasar conceptos de Angular con el API de Wikipedia, incluye temas como Componentes, Servicios, Observales y operadores RXJS_
 
+Demo (https://naughty-kirch-afeb61.netlify.app)
 ## Comenzando 🚀
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
