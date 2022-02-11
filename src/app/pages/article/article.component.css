@@ -1,0 +1,14 @@
+.article {
+  padding:1rem;
+  border: 1px solid #fefefe;
+  margin: 3px;
+}
+
+.article a{
+  font-size: 1.5rem;
+  transition: all 0.8s ease-in 0.2s;
+}
+
+.article a:hover{
+  background: rgba(207,207,207, .7);
+}

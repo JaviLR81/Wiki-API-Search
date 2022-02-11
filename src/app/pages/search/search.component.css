@@ -1,0 +1,16 @@
+.form {
+  padding: 2rem;
+}
+
+.form .form-field {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.form input {
+  border-radius: 5px;
+  font-size: 1rem;
+  width: 100%;
+  border: 2px solid #024e6e;
+  padding: 10px;
+}

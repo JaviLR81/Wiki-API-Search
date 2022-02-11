@@ -1,27 +1,56 @@
-# WikiSearch
+# Wiki Search 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
+_Este es un proyecto creado con el objetivo de repasar conceptos de Angular con el API de Wikipedia, incluye temas como Componentes, Servicios, Observales y operadores RXJS_
 
-## Development server
+## Comenzando 🚀
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
-## Code scaffolding
+### Pre-requisitos 📋
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+```
+Node js - https://nodejs.org/es/
+Angular CLI - npm install -g @angular/cli
+```
 
-## Build
+### Instalación 🔧
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+_Primero es necesario clonar el repositorio_
 
-## Running unit tests
+```
+git clone REPO
+```
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+_Reconstruir módulos de Node_
 
-## Running end-to-end tests
+```
+npm install
+```
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+_Levantar servidor local en el puerto 4200 (por defecto)_
 
-## Further help
+```
+ng serve
+```
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Ejecutando las pruebas ⚙️
+
+_Para ejecutar las pruebas unitarias_
+
+_(Aún por añadirse)_
+
+```
+ng test
+```
+
+## Construido con 🛠️
+
+_Menciona las herramientas que utilizaste para crear tu proyecto_
+
+* [Angular](https://angular.io/) - Framework de javascript
+* [Node](https://nodejs.org/es/) - Manejador de dependencias
+* [Wikipedia API](https://es.wikipedia.org/w/api.php) - API Utilizada
+
+## Autores ✒️
+
+* **Javier Lozano** - *Desarrollador* - [GITHUB](https://github.com/JaviLR81)
